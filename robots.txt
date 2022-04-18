@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gabrielrfg.github.io/ecqPublii/sitemap.xml
