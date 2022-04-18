@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://gabrielrfg.github.io/ecqPublii/post-fofinho.html",
+            "url": "https://gabrielrfg.github.io/ecqPublii/post-fofinho.html",
+            "title": "post fofinho",
+            "summary": "ai tal coisas giras",
+            "content_html": "<p>ai tal coisas giras</p>",
+            "author": {
+                "name": "Gabriel Gonçalves"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-18T11:56:51+01:00",
+            "date_modified": "2022-04-18T11:56:51+01:00"
+        },
+        {
             "id": "https://gabrielrfg.github.io/ecqPublii/testing-post.html",
             "url": "https://gabrielrfg.github.io/ecqPublii/testing-post.html",
             "title": "testing post",

@@ -3,12 +3,32 @@
     <title>testeFt</title>
     <link href="https://gabrielrfg.github.io/ecqPublii/feed.xml" rel="self" />
     <link href="https://gabrielrfg.github.io/ecqPublii" />
-    <updated>2022-04-18T10:55:40+01:00</updated>
+    <updated>2022-04-18T11:56:51+01:00</updated>
     <author>
         <name>Gabriel Gonçalves</name>
     </author>
     <id>https://gabrielrfg.github.io/ecqPublii</id>
 
+    <entry>
+        <title>post fofinho</title>
+        <author>
+            <name>Gabriel Gonçalves</name>
+        </author>
+        <link href="https://gabrielrfg.github.io/ecqPublii/post-fofinho.html"/>
+        <id>https://gabrielrfg.github.io/ecqPublii/post-fofinho.html</id>
+
+        <updated>2022-04-18T11:56:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                    ai tal coisas giras
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ai tal coisas giras</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>testing post</title>
         <author>
